@@ -1,0 +1,18 @@
+.Milk { 
+    background-color: #f08080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.changefontsize{
+    font-size: 24px;
+}
+
+#secondelement {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthelement {
+    background-color: lightgreen;
+    font-weight: bold;
+}
